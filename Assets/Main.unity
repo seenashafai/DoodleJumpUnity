@@ -239,8 +239,8 @@ MonoBehaviour:
   platformPrefab: {fileID: 1755797524}
   numberOfPlatforms: 100
   levelWidth: 3
-  minY: 0.2
-  minX: 1.5
+  minY: 2
+  minX: 6
 --- !u!4 &360133232
 Transform:
   m_ObjectHideFlags: 0
@@ -268,8 +268,8 @@ MonoBehaviour:
   platformPrefab: {fileID: 421668804}
   numberOfPlatforms: 10
   levelWidth: 3
-  minY: 0.2
-  minX: 1.5
+  minY: 1
+  minX: 15
 --- !u!1 &421668804
 GameObject:
   m_ObjectHideFlags: 0

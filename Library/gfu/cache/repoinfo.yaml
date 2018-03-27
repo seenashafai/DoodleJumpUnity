@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2018-03-26T20:53:48.2678260+01:00
-  initializedAtString: 2018-03-26T20:53:48.2678260+01:00
+  lastUpdatedAtString: 2018-03-27T12:35:11.6352240+01:00
+  initializedAtString: 2018-03-27T12:35:11.6352240+01:00
   currentGitRemote:
-    name: 
-    url: 
+    name: origin
+    url: https://github.com/seenashafai/DoodleJumpUnity.git
     login: 
     user: 
     host: 
@@ -24,13 +24,13 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: master
-    tracking: '[None]'
+    tracking: origin/master
     isActive: 1
   currentConfigBranch:
     name: master
     remote:
-      name: 
-      url: 
+      name: origin
+      url: https://github.com/seenashafai/DoodleJumpUnity.git
   currentConfigRemote:
-    name: 
-    url: 
+    name: origin
+    url: https://github.com/seenashafai/DoodleJumpUnity.git
